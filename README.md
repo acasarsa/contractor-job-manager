@@ -9,3 +9,7 @@
 - auto-calculates and updates numbers from the Timesheet and imported materials and subcontractors
 
 
+
+### Feature Demo for Timesheet App
+https://github.com/user-attachments/assets/00a76fa9-8a76-4a7e-acea-6450a1a1bad6
+
